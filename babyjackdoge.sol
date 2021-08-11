@@ -1,5 +1,5 @@
 /**
- *Submitted for verification at BscScan.com on 2021-08-10
+ *Submitted for verification at BscScan.com on 2021-08-11
 */
 
 /*
@@ -13,8 +13,6 @@ https://babyjackdoge.one
 
 // SPDX-License-Identifier: Unlicensed
 
-
-//
 
 pragma solidity ^0.8.4;
 
@@ -443,7 +441,7 @@ contract BabyJackDoge is Context, IERC20, Ownable {
     uint256 private _tFeeTotal;
 
     string private _name = "BabyJackDoge";
-    string private _symbol = "BJDG";
+    string private _symbol = "BJDOGE";
     uint8 private _decimals = 9;
 
 
